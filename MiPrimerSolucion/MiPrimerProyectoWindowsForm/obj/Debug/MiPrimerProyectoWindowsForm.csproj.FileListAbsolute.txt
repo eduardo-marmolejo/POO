@@ -1,0 +1,9 @@
+C:\Users\odrau\Desktop\MiPrimerSolucion\MiPrimerProyectoWindowsForm\bin\Debug\MiPrimerProyectoWindowsForm.exe.config
+C:\Users\odrau\Desktop\MiPrimerSolucion\MiPrimerProyectoWindowsForm\bin\Debug\MiPrimerProyectoWindowsForm.exe
+C:\Users\odrau\Desktop\MiPrimerSolucion\MiPrimerProyectoWindowsForm\bin\Debug\MiPrimerProyectoWindowsForm.pdb
+C:\Users\odrau\Desktop\MiPrimerSolucion\MiPrimerProyectoWindowsForm\obj\Debug\MiPrimerProyectoWindowsForm.Form1.resources
+C:\Users\odrau\Desktop\MiPrimerSolucion\MiPrimerProyectoWindowsForm\obj\Debug\MiPrimerProyectoWindowsForm.Properties.Resources.resources
+C:\Users\odrau\Desktop\MiPrimerSolucion\MiPrimerProyectoWindowsForm\obj\Debug\MiPrimerProyectoWindowsForm.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\MiPrimerSolucion\MiPrimerProyectoWindowsForm\obj\Debug\MiPrimerProyectoWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\MiPrimerSolucion\MiPrimerProyectoWindowsForm\obj\Debug\MiPrimerProyectoWindowsForm.exe
+C:\Users\odrau\Desktop\MiPrimerSolucion\MiPrimerProyectoWindowsForm\obj\Debug\MiPrimerProyectoWindowsForm.pdb

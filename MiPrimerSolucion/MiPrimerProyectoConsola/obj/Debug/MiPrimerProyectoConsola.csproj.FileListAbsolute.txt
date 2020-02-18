@@ -1,0 +1,7 @@
+C:\Users\odrau\Desktop\MiPrimerSolucion\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe.config
+C:\Users\odrau\Desktop\MiPrimerSolucion\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe
+C:\Users\odrau\Desktop\MiPrimerSolucion\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.pdb
+C:\Users\odrau\Desktop\MiPrimerSolucion\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\MiPrimerSolucion\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\MiPrimerSolucion\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.exe
+C:\Users\odrau\Desktop\MiPrimerSolucion\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.pdb
