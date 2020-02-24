@@ -1,0 +1,9 @@
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CasetaCobro\Caseta de Cobro\bin\Debug\Caseta de Cobro.exe.config
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CasetaCobro\Caseta de Cobro\bin\Debug\Caseta de Cobro.exe
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CasetaCobro\Caseta de Cobro\bin\Debug\Caseta de Cobro.pdb
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CasetaCobro\Caseta de Cobro\obj\Debug\Caseta_de_Cobro.frmCaseta.resources
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CasetaCobro\Caseta de Cobro\obj\Debug\Caseta_de_Cobro.Properties.Resources.resources
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CasetaCobro\Caseta de Cobro\obj\Debug\Caseta de Cobro.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CasetaCobro\Caseta de Cobro\obj\Debug\Caseta de Cobro.exe
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CasetaCobro\Caseta de Cobro\obj\Debug\Caseta de Cobro.pdb
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CasetaCobro\Caseta de Cobro\obj\Debug\Caseta de Cobro.csprojAssemblyReference.cache

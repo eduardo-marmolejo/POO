@@ -1,0 +1,9 @@
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Vacaciones\Vacaciones\bin\Debug\Vacaciones.exe.config
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Vacaciones\Vacaciones\bin\Debug\Vacaciones.exe
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Vacaciones\Vacaciones\bin\Debug\Vacaciones.pdb
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Vacaciones\Vacaciones\obj\Debug\Vacaciones.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Vacaciones\Vacaciones\obj\Debug\Vacaciones.fmrVacaciones.resources
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Vacaciones\Vacaciones\obj\Debug\Vacaciones.Properties.Resources.resources
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Vacaciones\Vacaciones\obj\Debug\Vacaciones.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Vacaciones\Vacaciones\obj\Debug\Vacaciones.exe
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Vacaciones\Vacaciones\obj\Debug\Vacaciones.pdb

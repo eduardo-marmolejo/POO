@@ -1,0 +1,10 @@
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Cuadrado\Cuadrado\bin\Debug\Cuadrado.exe.config
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Cuadrado\Cuadrado\bin\Debug\Cuadrado.exe
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Cuadrado\Cuadrado\bin\Debug\Cuadrado.pdb
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Cuadrado\Cuadrado\obj\Debug\Cuadrado.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Cuadrado\Cuadrado\obj\Debug\Cuadrado.fmrCuadrado.resources
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Cuadrado\Cuadrado\obj\Debug\Cuadrado.Properties.Resources.resources
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Cuadrado\Cuadrado\obj\Debug\Cuadrado.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Cuadrado\Cuadrado\obj\Debug\Cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Cuadrado\Cuadrado\obj\Debug\Cuadrado.exe
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\Cuadrado\Cuadrado\obj\Debug\Cuadrado.pdb

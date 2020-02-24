@@ -1,0 +1,9 @@
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\FechaNacimiento\Fecha de Nacimiento\bin\Debug\Fecha de Nacimiento.exe.config
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\FechaNacimiento\Fecha de Nacimiento\bin\Debug\Fecha de Nacimiento.exe
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\FechaNacimiento\Fecha de Nacimiento\bin\Debug\Fecha de Nacimiento.pdb
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\FechaNacimiento\Fecha de Nacimiento\obj\Debug\Fecha de Nacimiento.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\FechaNacimiento\Fecha de Nacimiento\obj\Debug\Fecha_de_Nacimiento.frmFechaNacimiento.resources
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\FechaNacimiento\Fecha de Nacimiento\obj\Debug\Fecha_de_Nacimiento.Properties.Resources.resources
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\FechaNacimiento\Fecha de Nacimiento\obj\Debug\Fecha de Nacimiento.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\FechaNacimiento\Fecha de Nacimiento\obj\Debug\Fecha de Nacimiento.exe
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\FechaNacimiento\Fecha de Nacimiento\obj\Debug\Fecha de Nacimiento.pdb
