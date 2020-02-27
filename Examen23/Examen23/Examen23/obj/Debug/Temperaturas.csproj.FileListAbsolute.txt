@@ -1,0 +1,9 @@
+C:\Users\odrau\Desktop\Examen23\Examen23\Examen23\obj\Debug\Temperaturas.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\Examen23\Examen23\Examen23\obj\Debug\Examen23.frmTemperaturas.resources
+C:\Users\odrau\Desktop\Examen23\Examen23\Examen23\obj\Debug\Examen23.Properties.Resources.resources
+C:\Users\odrau\Desktop\Examen23\Examen23\Examen23\obj\Debug\Temperaturas.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\Examen23\Examen23\Examen23\bin\Debug\Examen23.exe.config
+C:\Users\odrau\Desktop\Examen23\Examen23\Examen23\bin\Debug\Examen23.exe
+C:\Users\odrau\Desktop\Examen23\Examen23\Examen23\bin\Debug\Examen23.pdb
+C:\Users\odrau\Desktop\Examen23\Examen23\Examen23\obj\Debug\Examen23.exe
+C:\Users\odrau\Desktop\Examen23\Examen23\Examen23\obj\Debug\Examen23.pdb
