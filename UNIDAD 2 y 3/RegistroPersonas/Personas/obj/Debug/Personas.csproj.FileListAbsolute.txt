@@ -1,0 +1,10 @@
+C:\Users\odrau\Desktop\RegistroPersonas\Personas\bin\Debug\Personas.exe.config
+C:\Users\odrau\Desktop\RegistroPersonas\Personas\bin\Debug\Personas.exe
+C:\Users\odrau\Desktop\RegistroPersonas\Personas\bin\Debug\Personas.pdb
+C:\Users\odrau\Desktop\RegistroPersonas\Personas\obj\Debug\Personas.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\RegistroPersonas\Personas\obj\Debug\Personas.frmPersonas.resources
+C:\Users\odrau\Desktop\RegistroPersonas\Personas\obj\Debug\Personas.Properties.Resources.resources
+C:\Users\odrau\Desktop\RegistroPersonas\Personas\obj\Debug\Personas.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\RegistroPersonas\Personas\obj\Debug\Personas.exe
+C:\Users\odrau\Desktop\RegistroPersonas\Personas\obj\Debug\Personas.pdb
+C:\Users\odrau\Desktop\RegistroPersonas\Personas\obj\Debug\Personas.frmInforme.resources
