@@ -35,7 +35,7 @@ namespace Vehículos
 
            objVehiculo.arrancarMotor();
             SoundPlayer sonido = new SoundPlayer();
-            sonido.SoundLocation = "C:/Users/odrau/Desktop/POO/UNIDAD 4/Vehículos/vocho.wav";
+            sonido.SoundLocation = "C:/Users/odrau/Desktop/UNIDAD 4/vocho.wav";
             sonido.Play();
         }
 
