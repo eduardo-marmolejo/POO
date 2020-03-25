@@ -14,13 +14,14 @@ namespace PiedraPapelTijeras
 {
     public partial class Form1 : Form,Ippt
     {
+        //Creación de objetos de las clases
         ClassPPT objPPT = new ClassPPT();
         ClassIniciar objIniciar = new ClassIniciar();
         public Form1()
         {
             InitializeComponent();
         }
-
+        //Declaración de los objetos de las clases a los atributos
         private void Form1_Load(object sender, EventArgs e)
         {
             objPPT.PosicionOriginalPlayer1 = pictureBox1.Location.Y;
@@ -31,6 +32,8 @@ namespace PiedraPapelTijeras
             Sonido("readygo");
 
         }
+        //Inicialización del método implementado en el formulario con los timer y el objeto
+        //del método
         public void IniciarJuego() {
             timer1.Enabled = true;
             timer2.Enabled = true;
@@ -38,7 +41,7 @@ namespace PiedraPapelTijeras
             timer2.Start();
             objIniciar.IniciarJuego();
         }
-
+        //Declarando la variable sonido, ya que se utilizan sonidos
         public void Sonido(String NombreSonido) {
             var sonido = (Stream)Properties.Resources.ResourceManager.GetObject(NombreSonido);
             SoundPlayer SonidoCargado = new SoundPlayer(sonido);
@@ -46,7 +49,10 @@ namespace PiedraPapelTijeras
 
         
         }
-
+        //Codificación de las manos (picturebox1 y picture2), para sus movimientos y
+        //cambios de manos en el timer 1
+        //y codificación de las opciones de los colores, para saber si son correctos o no
+        //dependiendo de las manos
         private void timer1_Tick(object sender, EventArgs e)
         {
             int posicion = pictureBox1.Location.Y;
@@ -98,7 +104,7 @@ namespace PiedraPapelTijeras
 
             }
         }
-
+        //Codificación del timer2, el tiempo de selección en milisegundos
         private void timer2_Tick(object sender, EventArgs e)
         {
             objIniciar.TiempoSeleccion--;
@@ -110,7 +116,7 @@ namespace PiedraPapelTijeras
             }
 
         }
-
+        //Codificación para verificar si la opción es correcta o no
         private void Verificar(object sender, EventArgs e)
         {
             String Presionado = ((PictureBox)sender).Name;
@@ -129,7 +135,8 @@ namespace PiedraPapelTijeras
             rojo.Enabled = false; azul.Enabled = false; empate.Enabled = false;
 
         }
-
+        //Codificación del game over o juego terminado
+        //Reinicialización del juego
         private void timer3_Tick(object sender, EventArgs e)
         {
             if (objPPT.TiempoTotalJuego == (1000 * 1)) {
