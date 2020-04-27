@@ -8,18 +8,16 @@ namespace Ejercicio_3
 {
     class ClassMaestro:ClassPersona
     {
-        public string[,] DatosMaestros;
-
-        /*public string Nombre { get; set; }
-        public int Fecha { get; set; }
+        public string Nombre { get; set; }
+        public string Fecha { get; set; }
         public string Curp { get; set; }
         public int Telefono { get; set; }
         public string Email { get; set; }
         public string NumMaestro { get; set; }
         public int Sueldo { get; set; }
-        public string Materias{ get; set; }*/
+        public string[,] MateriasImpartidas{ get; set; }
 
-        public void Maestro()
+        public ClassMaestro()
         {
             Cant2 = 0;
         }
