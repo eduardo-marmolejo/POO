@@ -1,0 +1,12 @@
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales1-2\Bidimensionales 1-2\bin\Debug\netcoreapp3.1\Bidimensionales 1-2.exe
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales1-2\Bidimensionales 1-2\bin\Debug\netcoreapp3.1\Bidimensionales 1-2.deps.json
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales1-2\Bidimensionales 1-2\bin\Debug\netcoreapp3.1\Bidimensionales 1-2.runtimeconfig.json
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales1-2\Bidimensionales 1-2\bin\Debug\netcoreapp3.1\Bidimensionales 1-2.runtimeconfig.dev.json
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales1-2\Bidimensionales 1-2\bin\Debug\netcoreapp3.1\Bidimensionales 1-2.dll
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales1-2\Bidimensionales 1-2\bin\Debug\netcoreapp3.1\Bidimensionales 1-2.pdb
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales1-2\Bidimensionales 1-2\obj\Debug\netcoreapp3.1\Bidimensionales 1-2.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales1-2\Bidimensionales 1-2\obj\Debug\netcoreapp3.1\Bidimensionales 1-2.AssemblyInfoInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales1-2\Bidimensionales 1-2\obj\Debug\netcoreapp3.1\Bidimensionales 1-2.AssemblyInfo.cs
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales1-2\Bidimensionales 1-2\obj\Debug\netcoreapp3.1\Bidimensionales 1-2.dll
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales1-2\Bidimensionales 1-2\obj\Debug\netcoreapp3.1\Bidimensionales 1-2.pdb
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales1-2\Bidimensionales 1-2\obj\Debug\netcoreapp3.1\Bidimensionales 1-2.genruntimeconfig.cache
