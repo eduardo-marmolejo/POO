@@ -1,0 +1,10 @@
+C:\Users\odrau\Desktop\UNIDAD 5\MatrizSumaFCD\MatrizSumaFCD\bin\Debug\MatrizSumaFCD.exe.config
+C:\Users\odrau\Desktop\UNIDAD 5\MatrizSumaFCD\MatrizSumaFCD\bin\Debug\MatrizSumaFCD.exe
+C:\Users\odrau\Desktop\UNIDAD 5\MatrizSumaFCD\MatrizSumaFCD\bin\Debug\MatrizSumaFCD.pdb
+C:\Users\odrau\Desktop\UNIDAD 5\MatrizSumaFCD\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 5\MatrizSumaFCD\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.frmMatrizSumaFCD.resources
+C:\Users\odrau\Desktop\UNIDAD 5\MatrizSumaFCD\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 5\MatrizSumaFCD\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 5\MatrizSumaFCD\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 5\MatrizSumaFCD\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.exe
+C:\Users\odrau\Desktop\UNIDAD 5\MatrizSumaFCD\MatrizSumaFCD\obj\Debug\MatrizSumaFCD.pdb
