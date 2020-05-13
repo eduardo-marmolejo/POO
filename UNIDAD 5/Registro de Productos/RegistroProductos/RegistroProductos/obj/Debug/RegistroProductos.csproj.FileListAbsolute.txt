@@ -1,0 +1,10 @@
+C:\Users\odrau\Desktop\UNIDAD 5\RegistroProductos\RegistroProductos\bin\Debug\RegistroProductos.exe.config
+C:\Users\odrau\Desktop\UNIDAD 5\RegistroProductos\RegistroProductos\bin\Debug\RegistroProductos.exe
+C:\Users\odrau\Desktop\UNIDAD 5\RegistroProductos\RegistroProductos\bin\Debug\RegistroProductos.pdb
+C:\Users\odrau\Desktop\UNIDAD 5\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 5\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.frmRegProd.resources
+C:\Users\odrau\Desktop\UNIDAD 5\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 5\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 5\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 5\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.exe
+C:\Users\odrau\Desktop\UNIDAD 5\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.pdb
