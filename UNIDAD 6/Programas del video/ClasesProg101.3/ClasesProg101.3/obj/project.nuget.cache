@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+UQKrskWUhFfe0zr7PXBICKEV6P7qV5adLzQ4sRldgKr6vyCXk2cJytf57A1/ftApvKjsXaljzm9DfXAzPJ3ZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\odrau\\Desktop\\UNIDAD 6\\Programas del video\\ClasesProg101.3\\ClasesProg101.3\\ClasesProg101.3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\odrau\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
