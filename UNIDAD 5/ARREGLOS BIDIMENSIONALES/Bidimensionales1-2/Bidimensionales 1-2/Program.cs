@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Bidimensionales_1_2
 {
@@ -13,23 +17,24 @@ namespace Bidimensionales_1_2
             notas[2] = new int[12]; //12 notas en el último
 
             //Damos valores de ejemplo
-            for(int i = 0; i < notas.Length; i++)
+            for (int i = 0; i < notas.Length; i++)
             {
-                for(int j = 0; j < notas[i].Length; j++)
+                for (int j = 0; j < notas[i].Length; j++)
                 {
                     notas[i][j] = i + j;
                 }
             }
 
             //Y mostramos esos valores
-            for(int i = 0; i < notas.Length; i++)
+            for (int i = 0; i < notas.Length; i++)
             {
-                for(int j = 0; j < notas.Length; j++)
+                for (int j = 0; j < notas.Length; j++)
                 {
                     Console.WriteLine(" {0}", notas[i][j]);
                 }
                 Console.WriteLine();
             }
-        } //Fin del "Main"
+            Console.ReadKey();
+        }//Fin del "Main"
     }
 }

@@ -7,3 +7,13 @@ C:\Users\odrau\Desktop\UNIDAD 4\Unidad4\Vehículos\bin\Debug\Vehículos.pdb
 C:\Users\odrau\Desktop\UNIDAD 4\Unidad4\Vehículos\obj\Debug\Vehículos.exe
 C:\Users\odrau\Desktop\UNIDAD 4\Unidad4\Vehículos\obj\Debug\Vehículos.pdb
 C:\Users\odrau\Desktop\UNIDAD 4\Unidad4\Vehículos\obj\Debug\Vehículos.frmVehículos.resources
+C:\Users\odrau\Desktop\POO\UNIDAD 4\Vehículos\Vehículos\bin\Debug\Vehículos.exe.config
+C:\Users\odrau\Desktop\POO\UNIDAD 4\Vehículos\Vehículos\bin\Debug\Vehículos.exe
+C:\Users\odrau\Desktop\POO\UNIDAD 4\Vehículos\Vehículos\bin\Debug\Vehículos.pdb
+C:\Users\odrau\Desktop\POO\UNIDAD 4\Vehículos\Vehículos\obj\Debug\Vehículos.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\POO\UNIDAD 4\Vehículos\Vehículos\obj\Debug\Vehículos.frmVehículos.resources
+C:\Users\odrau\Desktop\POO\UNIDAD 4\Vehículos\Vehículos\obj\Debug\Vehículos.Properties.Resources.resources
+C:\Users\odrau\Desktop\POO\UNIDAD 4\Vehículos\Vehículos\obj\Debug\Vehículos.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\POO\UNIDAD 4\Vehículos\Vehículos\obj\Debug\Vehículos.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\POO\UNIDAD 4\Vehículos\Vehículos\obj\Debug\Vehículos.exe
+C:\Users\odrau\Desktop\POO\UNIDAD 4\Vehículos\Vehículos\obj\Debug\Vehículos.pdb

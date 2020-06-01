@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Media;
 using System.Windows.Forms;
-
+using System.IO;
 
 namespace Vehículos
 {
@@ -35,9 +35,11 @@ namespace Vehículos
 
            objVehiculo.arrancarMotor();
             SoundPlayer sonido = new SoundPlayer();
-            sonido.SoundLocation = "C:/Users/odrau/Desktop/UNIDAD 4/vocho.wav";
-            sonido.Play();
+           sonido.SoundLocation = "C:/Users/odrau/Desktop/POO/UNIDAD 4/Vehículos/Vehículos/Resources/vocho.wav";
+           sonido.Play();
         }
+
+        
 
         private void btnNuevo_Click(object sender, EventArgs e)
         {

@@ -1,0 +1,7 @@
+C:\Users\odrau\Desktop\Bidimensionales1-1\Bidimensionales 1-1\bin\Debug\Bidimensionales 1-1.exe.config
+C:\Users\odrau\Desktop\Bidimensionales1-1\Bidimensionales 1-1\bin\Debug\Bidimensionales 1-1.exe
+C:\Users\odrau\Desktop\Bidimensionales1-1\Bidimensionales 1-1\bin\Debug\Bidimensionales 1-1.pdb
+C:\Users\odrau\Desktop\Bidimensionales1-1\Bidimensionales 1-1\obj\Debug\Bidimensionales 1-1.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\Bidimensionales1-1\Bidimensionales 1-1\obj\Debug\Bidimensionales 1-1.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\Bidimensionales1-1\Bidimensionales 1-1\obj\Debug\Bidimensionales 1-1.exe
+C:\Users\odrau\Desktop\Bidimensionales1-1\Bidimensionales 1-1\obj\Debug\Bidimensionales 1-1.pdb

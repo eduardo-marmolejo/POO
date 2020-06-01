@@ -7,6 +7,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 using System.Windows.Forms;
 
 namespace Ejercicio_2
@@ -14,11 +15,19 @@ namespace Ejercicio_2
     public partial class frmPaises : Form
     {
         ClassPaís objPais = new ClassPaís();
+
+        TextWriter Archivo;
+
         public frmPaises()
         {
             InitializeComponent();
         }
-
+        
+        private void frmPaises_Load(object sender, EventArgs e)
+        {
+            Archivo = new StreamWriter("Datos.txt");
+        }
+        
         private void groupBox2_Enter(object sender, EventArgs e)
         {
 
@@ -63,7 +72,6 @@ namespace Ejercicio_2
             }
         }
 
-
         private void btnRegistrar_Click(object sender, EventArgs e)
         {
             //Entrada de datos
@@ -71,16 +79,22 @@ namespace Ejercicio_2
             //Inicializar ahora la matriz
             objPais.Países = new string[objPais.cant, 6];
             //Ingresar datos
-            for(int i = 0; i < objPais.cant; i++)
+            for (int i = 0; i < objPais.cant; i++)
             {
-                objPais.Países[i, 0] = Microsoft.VisualBasic.Interaction.InputBox("Ingrese el nombre del país " + (i+1), "Registro del País");
+                objPais.Países[i, 0] = Microsoft.VisualBasic.Interaction.InputBox("Ingrese el nombre del país " + (i + 1), "Registro del País");
                 objPais.Países[i, 1] = Microsoft.VisualBasic.Interaction.InputBox("Ingrese la población del país " + (i + 1), "Registro del País");
-                objPais.Países[i, 2] = Microsoft.VisualBasic.Interaction.InputBox("Ingrese el idioma del país " + (i+1), "Registro del País");
-                objPais.Países[i, 3] = Microsoft.VisualBasic.Interaction.InputBox("Ingrese el primer color de la bandera " + (i+1), "Registro del País");
-                objPais.Países[i, 4] = Microsoft.VisualBasic.Interaction.InputBox("Ingrese el segundo color de la bandera " + (i+1), "Registro del País");
-                objPais.Países[i, 5] = Microsoft.VisualBasic.Interaction.InputBox("Ingrese el tercer color de la bandera " + (i+1), "Registro del País");
+                objPais.Países[i, 2] = Microsoft.VisualBasic.Interaction.InputBox("Ingrese el idioma del país " + (i + 1), "Registro del País");
+                objPais.Países[i, 3] = Microsoft.VisualBasic.Interaction.InputBox("Ingrese el primer color de la bandera " + (i + 1), "Registro del País");
+                objPais.Países[i, 4] = Microsoft.VisualBasic.Interaction.InputBox("Ingrese el segundo color de la bandera " + (i + 1), "Registro del País");
+                objPais.Países[i, 5] = Microsoft.VisualBasic.Interaction.InputBox("Ingrese el tercer color de la bandera " + (i + 1), "Registro del País");
             }
+
+            
+            Archivo.Write(objPais.Países);
+            Archivo.Close();
         }
+
+        
     }
     
 }

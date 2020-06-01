@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Bidimensionales_1_1
 {
@@ -22,7 +26,7 @@ namespace Bidimensionales_1_1
                 notas1[0, 1]);
             Console.WriteLine("La nota2 del tercer alumno del grupo 1 es {0}",
                 notas2[0, 2]);
-
+            Console.ReadKey();
         }
     }
 }
