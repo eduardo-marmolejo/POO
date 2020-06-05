@@ -1,0 +1,30 @@
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\bin\Debug\Bidimensionales 2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\bin\Debug\Bidimensionales 2.exe
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\bin\Debug\Bidimensionales 2.pdb
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales 2.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales_2.frmOperaciones.resources
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales_2.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales 2.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales 2.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales 2.exe
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales 2.pdb
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\bin\Debug\Bidimensionales 2.exe.config
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\bin\Debug\Bidimensionales 2.exe
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\bin\Debug\Bidimensionales 2.pdb
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales 2.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales_2.frmOperaciones.resources
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales_2.Properties.Resources.resources
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales 2.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales 2.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales 2.exe
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales 2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\bin\Debug\Bidimensionales 2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\bin\Debug\Bidimensionales 2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\bin\Debug\Bidimensionales 2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales 2.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales_2.frmOperaciones.resources
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales_2.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales 2.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales 2.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales 2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS BIDIMENSIONALES\Bidimensionales2\Bidimensionales 2\obj\Debug\Bidimensionales 2.pdb

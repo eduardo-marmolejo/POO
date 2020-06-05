@@ -1,0 +1,19 @@
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS\Ejemplo1Propuesta\Ejemplo 1 Propuesta\bin\Debug\Ejemplo 1 Propuesta.exe.config
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS\Ejemplo1Propuesta\Ejemplo 1 Propuesta\bin\Debug\Ejemplo 1 Propuesta.exe
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS\Ejemplo1Propuesta\Ejemplo 1 Propuesta\bin\Debug\Ejemplo 1 Propuesta.pdb
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS\Ejemplo1Propuesta\Ejemplo 1 Propuesta\obj\Debug\Ejemplo 1 Propuesta.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS\Ejemplo1Propuesta\Ejemplo 1 Propuesta\obj\Debug\Ejemplo_1_Propuesta.frmPromedio.resources
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS\Ejemplo1Propuesta\Ejemplo 1 Propuesta\obj\Debug\Ejemplo_1_Propuesta.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS\Ejemplo1Propuesta\Ejemplo 1 Propuesta\obj\Debug\Ejemplo 1 Propuesta.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS\Ejemplo1Propuesta\Ejemplo 1 Propuesta\obj\Debug\Ejemplo 1 Propuesta.exe
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS\Ejemplo1Propuesta\Ejemplo 1 Propuesta\obj\Debug\Ejemplo 1 Propuesta.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Ejemplo1Propuesta - Arreglo\Ejemplo 1 Propuesta\bin\Debug\Ejemplo 1 Propuesta.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Ejemplo1Propuesta - Arreglo\Ejemplo 1 Propuesta\bin\Debug\Ejemplo 1 Propuesta.exe
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Ejemplo1Propuesta - Arreglo\Ejemplo 1 Propuesta\bin\Debug\Ejemplo 1 Propuesta.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Ejemplo1Propuesta - Arreglo\Ejemplo 1 Propuesta\obj\Debug\Ejemplo 1 Propuesta.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Ejemplo1Propuesta - Arreglo\Ejemplo 1 Propuesta\obj\Debug\Ejemplo_1_Propuesta.frmPromedio.resources
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Ejemplo1Propuesta - Arreglo\Ejemplo 1 Propuesta\obj\Debug\Ejemplo_1_Propuesta.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Ejemplo1Propuesta - Arreglo\Ejemplo 1 Propuesta\obj\Debug\Ejemplo 1 Propuesta.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Ejemplo1Propuesta - Arreglo\Ejemplo 1 Propuesta\obj\Debug\Ejemplo 1 Propuesta.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Ejemplo1Propuesta - Arreglo\Ejemplo 1 Propuesta\obj\Debug\Ejemplo 1 Propuesta.exe
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Ejemplo1Propuesta - Arreglo\Ejemplo 1 Propuesta\obj\Debug\Ejemplo 1 Propuesta.pdb

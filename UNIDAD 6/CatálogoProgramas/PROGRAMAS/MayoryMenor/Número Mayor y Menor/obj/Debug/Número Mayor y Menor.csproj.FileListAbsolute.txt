@@ -1,0 +1,10 @@
+C:\Users\odrau\Desktop\POO\UNIDAD 5\MayoryMenor\Número Mayor y Menor\obj\Debug\Número Mayor y Menor.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\POO\UNIDAD 5\MayoryMenor\Número Mayor y Menor\obj\Debug\Número_Mayor_y_Menor.frmMaMe.resources
+C:\Users\odrau\Desktop\POO\UNIDAD 5\MayoryMenor\Número Mayor y Menor\obj\Debug\Número_Mayor_y_Menor.Properties.Resources.resources
+C:\Users\odrau\Desktop\POO\UNIDAD 5\MayoryMenor\Número Mayor y Menor\obj\Debug\Número Mayor y Menor.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\POO\UNIDAD 5\MayoryMenor\Número Mayor y Menor\obj\Debug\Número Mayor y Menor.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\POO\UNIDAD 5\MayoryMenor\Número Mayor y Menor\bin\Debug\Número Mayor y Menor.exe.config
+C:\Users\odrau\Desktop\POO\UNIDAD 5\MayoryMenor\Número Mayor y Menor\bin\Debug\Número Mayor y Menor.exe
+C:\Users\odrau\Desktop\POO\UNIDAD 5\MayoryMenor\Número Mayor y Menor\bin\Debug\Número Mayor y Menor.pdb
+C:\Users\odrau\Desktop\POO\UNIDAD 5\MayoryMenor\Número Mayor y Menor\obj\Debug\Número Mayor y Menor.exe
+C:\Users\odrau\Desktop\POO\UNIDAD 5\MayoryMenor\Número Mayor y Menor\obj\Debug\Número Mayor y Menor.pdb

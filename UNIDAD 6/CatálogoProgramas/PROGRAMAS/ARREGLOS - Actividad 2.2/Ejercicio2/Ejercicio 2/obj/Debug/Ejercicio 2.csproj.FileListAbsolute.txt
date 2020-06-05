@@ -1,0 +1,30 @@
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio 2.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio_2.frmPaises.resources
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio_2.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio 2.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio_2.frmPaises.resources
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio_2.Properties.Resources.resources
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\odrau\Desktop\POO\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio 2.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio_2.frmPaises.resources
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio_2.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\ARREGLOS - Actividad 2.2\Ejercicio2\Ejercicio 2\obj\Debug\Ejercicio 2.pdb

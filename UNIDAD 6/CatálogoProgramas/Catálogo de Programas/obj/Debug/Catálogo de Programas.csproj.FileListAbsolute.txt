@@ -1,0 +1,21 @@
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Catálogo de Programas.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Catálogo de Programas.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Catálogo de Programas.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo de Programas.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo_de_Programas.frmCatalogo.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo_de_Programas.frmUni1.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo_de_Programas.frmUni4.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo_de_Programas.frmUni5.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo_de_Programas.frmUni6.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo_de_Programas.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo de Programas.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo de Programas.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo de Programas.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo de Programas.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo_de_Programas.frmDeExa.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo_de_Programas.frmUni23.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo_de_Programas.frmEjecutables.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo_de_Programas.frmRegistros.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo_de_Programas.frmArreglosBidi.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo_de_Programas.frmRegistros2.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo_de_Programas.frmArreglosBidi2.resources
