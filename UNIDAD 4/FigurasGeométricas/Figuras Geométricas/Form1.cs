@@ -41,7 +41,7 @@ namespace Figuras_Geométricas
                     txtMedida3.Text="";
                     txtMedida.Enabled = true;
                     txtMedida2.Enabled = true;
-                    txtMedida3.Enabled = true;
+                    txtMedida3.Enabled = false;
                     break;
 
                 case "Círculo":
