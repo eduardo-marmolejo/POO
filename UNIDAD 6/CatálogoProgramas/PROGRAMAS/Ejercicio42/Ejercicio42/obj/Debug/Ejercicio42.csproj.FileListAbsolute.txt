@@ -1,0 +1,20 @@
+C:\Users\odrau\Desktop\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.exe.config
+C:\Users\odrau\Desktop\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.exe
+C:\Users\odrau\Desktop\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.pdb
+C:\Users\odrau\Desktop\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.FrmRegEs4.resources
+C:\Users\odrau\Desktop\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.Properties.Resources.resources
+C:\Users\odrau\Desktop\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.exe
+C:\Users\odrau\Desktop\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio42\Ejercicio42\bin\Debug\Ejercicio42.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.FrmRegEs4.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio42\Ejercicio42\obj\Debug\Ejercicio42.pdb

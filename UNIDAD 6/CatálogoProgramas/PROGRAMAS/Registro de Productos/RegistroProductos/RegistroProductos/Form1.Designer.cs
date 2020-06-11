@@ -220,7 +220,6 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmRegProd";
             this.Text = "Registro de Productos";
-            this.Load += new System.EventHandler(this.frmRegProd_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);

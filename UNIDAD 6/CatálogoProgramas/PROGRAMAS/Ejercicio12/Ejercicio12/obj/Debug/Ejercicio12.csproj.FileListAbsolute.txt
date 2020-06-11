@@ -1,0 +1,10 @@
+C:\Users\odrau\Desktop\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+C:\Users\odrau\Desktop\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe
+C:\Users\odrau\Desktop\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.pdb
+C:\Users\odrau\Desktop\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.FrmRegistroPaises1.resources
+C:\Users\odrau\Desktop\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.Properties.Resources.resources
+C:\Users\odrau\Desktop\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.exe
+C:\Users\odrau\Desktop\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.pdb

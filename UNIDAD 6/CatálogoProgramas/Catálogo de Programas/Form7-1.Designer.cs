@@ -51,7 +51,7 @@
             // btnRegEs2
             // 
             this.btnRegEs2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRegEs2.Location = new System.Drawing.Point(210, 154);
+            this.btnRegEs2.Location = new System.Drawing.Point(201, 186);
             this.btnRegEs2.Name = "btnRegEs2";
             this.btnRegEs2.Size = new System.Drawing.Size(110, 60);
             this.btnRegEs2.TabIndex = 12;
@@ -62,7 +62,7 @@
             // btnRegEs
             // 
             this.btnRegEs.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRegEs.Location = new System.Drawing.Point(59, 154);
+            this.btnRegEs.Location = new System.Drawing.Point(50, 186);
             this.btnRegEs.Name = "btnRegEs";
             this.btnRegEs.Size = new System.Drawing.Size(99, 60);
             this.btnRegEs.TabIndex = 11;
@@ -73,7 +73,7 @@
             // btnRegPa2
             // 
             this.btnRegPa2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRegPa2.Location = new System.Drawing.Point(220, 12);
+            this.btnRegPa2.Location = new System.Drawing.Point(211, 44);
             this.btnRegPa2.Name = "btnRegPa2";
             this.btnRegPa2.Size = new System.Drawing.Size(100, 58);
             this.btnRegPa2.TabIndex = 10;
@@ -84,7 +84,7 @@
             // btnRegPa
             // 
             this.btnRegPa.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRegPa.Location = new System.Drawing.Point(59, 12);
+            this.btnRegPa.Location = new System.Drawing.Point(50, 44);
             this.btnRegPa.Name = "btnRegPa";
             this.btnRegPa.Size = new System.Drawing.Size(95, 56);
             this.btnRegPa.TabIndex = 9;

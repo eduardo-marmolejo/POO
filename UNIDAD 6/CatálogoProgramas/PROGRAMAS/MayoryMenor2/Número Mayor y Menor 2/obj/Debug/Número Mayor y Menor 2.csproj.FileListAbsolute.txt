@@ -1,0 +1,20 @@
+C:\Users\odrau\Desktop\MayoryMenor2\Número Mayor y Menor 2\bin\Debug\Número Mayor y Menor 2.exe.config
+C:\Users\odrau\Desktop\MayoryMenor2\Número Mayor y Menor 2\bin\Debug\Número Mayor y Menor 2.exe
+C:\Users\odrau\Desktop\MayoryMenor2\Número Mayor y Menor 2\bin\Debug\Número Mayor y Menor 2.pdb
+C:\Users\odrau\Desktop\MayoryMenor2\Número Mayor y Menor 2\obj\Debug\Número Mayor y Menor 2.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\MayoryMenor2\Número Mayor y Menor 2\obj\Debug\Número_Mayor_y_Menor_2.frmMaMe2.resources
+C:\Users\odrau\Desktop\MayoryMenor2\Número Mayor y Menor 2\obj\Debug\Número_Mayor_y_Menor_2.Properties.Resources.resources
+C:\Users\odrau\Desktop\MayoryMenor2\Número Mayor y Menor 2\obj\Debug\Número Mayor y Menor 2.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\MayoryMenor2\Número Mayor y Menor 2\obj\Debug\Número Mayor y Menor 2.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\MayoryMenor2\Número Mayor y Menor 2\obj\Debug\Número Mayor y Menor 2.exe
+C:\Users\odrau\Desktop\MayoryMenor2\Número Mayor y Menor 2\obj\Debug\Número Mayor y Menor 2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MayoryMenor2\Número Mayor y Menor 2\bin\Debug\Número Mayor y Menor 2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MayoryMenor2\Número Mayor y Menor 2\bin\Debug\Número Mayor y Menor 2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MayoryMenor2\Número Mayor y Menor 2\bin\Debug\Número Mayor y Menor 2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MayoryMenor2\Número Mayor y Menor 2\obj\Debug\Número Mayor y Menor 2.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MayoryMenor2\Número Mayor y Menor 2\obj\Debug\Número_Mayor_y_Menor_2.frmMaMe2.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MayoryMenor2\Número Mayor y Menor 2\obj\Debug\Número_Mayor_y_Menor_2.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MayoryMenor2\Número Mayor y Menor 2\obj\Debug\Número Mayor y Menor 2.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MayoryMenor2\Número Mayor y Menor 2\obj\Debug\Número Mayor y Menor 2.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MayoryMenor2\Número Mayor y Menor 2\obj\Debug\Número Mayor y Menor 2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MayoryMenor2\Número Mayor y Menor 2\obj\Debug\Número Mayor y Menor 2.pdb

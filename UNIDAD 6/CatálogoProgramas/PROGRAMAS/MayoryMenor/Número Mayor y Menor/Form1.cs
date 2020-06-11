@@ -18,7 +18,6 @@ namespace Número_Mayor_y_Menor
         int Mayor;
         int Menor;
         string maymer;
-        TextWriter archivomaymer;
         public frmMaMe()
         {
             InitializeComponent();
@@ -42,13 +41,12 @@ namespace Número_Mayor_y_Menor
         private void btnImprimir_Click(object sender, EventArgs e)
         {
             MessageBox.Show(objNumeros.CalcularMay(Mayor, maymer, Menor), "Los numero mayor es: ", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            archivomaymer.Write(objNumeros.CalcularMay(Mayor, maymer, Menor));
-            archivomaymer.Close();
+            
         }
 
         private void frmMaMe_Load(object sender, EventArgs e)
         {
-            archivomaymer = new StreamWriter("Datos.txt");
+            
         }
     }
 }

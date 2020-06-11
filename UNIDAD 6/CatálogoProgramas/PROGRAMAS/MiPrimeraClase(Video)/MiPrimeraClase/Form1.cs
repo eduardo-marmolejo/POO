@@ -4,7 +4,6 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.IO;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -16,13 +15,6 @@ namespace MiPrimeraClase
     public partial class frmPersonas : Form
     {
         ArrayList Personas = new ArrayList();
-
-        TextWriter Archivo;
-        TextWriter Archivo2;
-        TextWriter Archivo3;
-        TextWriter Archivo4;
-        TextWriter Archivo5;
-        TextWriter Archivo6;
 
         public frmPersonas()
         {
@@ -60,13 +52,6 @@ namespace MiPrimeraClase
             Personas.Add(Persona2);
 
             dgvDatos.DataSource = Personas;
-
-            Archivo = new StreamWriter("DatosID.txt");
-            Archivo2 = new StreamWriter("DatosNombre.txt");
-            Archivo3 = new StreamWriter("DatosApellidos.txt");
-            Archivo4 = new StreamWriter("DatosCorreo.txt");
-            Archivo5 = new StreamWriter("DatosFecha.txt");
-            Archivo6 = new StreamWriter("DatosSalario.txt");
         }
 
         private void tsbNuevo_Click(object sender, EventArgs e)
@@ -152,19 +137,6 @@ namespace MiPrimeraClase
             txtCorreo.Clear();
             txtSalario.Clear();
             txtID.Focus();
-
-            Archivo.Write(miPersona.ID);
-            Archivo.Close();
-            Archivo2.Write(miPersona.Nombre);
-            Archivo2.Close();
-            Archivo3.Write(miPersona.Apellidos);
-            Archivo3.Close();
-            Archivo4.Write(miPersona.Correo);
-            Archivo4.Close();
-            Archivo5.Write(miPersona.FechaNacimiento);
-            Archivo5.Close();
-            Archivo6.Write(miPersona.Salario);
-            Archivo6.Close();
         }
 
         private bool Existe(string ID)

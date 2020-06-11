@@ -19,3 +19,158 @@ C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\De
 C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo_de_Programas.frmArreglosBidi.resources
 C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo_de_Programas.frmRegistros2.resources
 C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo_de_Programas.frmArreglosBidi2.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MiPrimerProyectoConsola.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MiPrimerProyectoConsola.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MiPrimerProyectoConsola.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\obj\Debug\Catálogo de Programas.csproj.CopyComplete
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MiPrimerProyectoWindowsForm.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MiPrimerProyectoWindowsForm.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MiPrimerProyectoWindowsForm.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Examen23.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Examen23.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Examen23.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Calificaciones.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Concierto.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Personas.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Calificaciones.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Calificaciones.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Concierto.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Concierto.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Personas.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Personas.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Embotelladora.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Embotelladora.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Embotelladora.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Caseta de Cobro.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\CFE.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Cuadrado.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Fecha de Nacimiento.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Temperatura.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Vacaciones.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Caseta de Cobro.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Caseta de Cobro.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\CFE.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\CFE.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Cuadrado.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Cuadrado.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Fecha de Nacimiento.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Fecha de Nacimiento.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Temperatura.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Temperatura.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Vacaciones.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Vacaciones.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Empleados Restaurante.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Figuras Geométricas 2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Figuras Geométricas.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Empleados Restaurante.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Empleados Restaurante.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Figuras Geométricas 2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Figuras Geométricas 2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Figuras Geométricas.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Figuras Geométricas.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\PiedraPapelTijeras.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\PiedraPapelTijeras.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\PiedraPapelTijeras.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Interfaces Ejercicio 1.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Operaciones.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Vehículos.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Interfaces Ejercicio 1.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Interfaces Ejercicio 1.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Operaciones.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Operaciones.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Vehículos.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Vehículos.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio 1.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio 2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio 3.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio03.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio03.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio03.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio 1.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio 1.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio 2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio 2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio 3.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio 3.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales 1-1.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales 1-2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales 2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales 1-1.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales 1-1.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales 1-2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales 1-2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales 2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales 2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejemplo 1 Propuesta.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MatrizSumaFCD.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MiPrimeraClase.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Número Mayor y Menor.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\RegistroProductos.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Torneo Futbol.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejemplo 1 Propuesta.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejemplo 1 Propuesta.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MatrizSumaFCD.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MatrizSumaFCD.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Número Mayor y Menor.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Número Mayor y Menor.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MiPrimeraClase.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MiPrimeraClase.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\RegistroProductos.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\RegistroProductos.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Torneo Futbol.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Torneo Futbol.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio12.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio22.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio32.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio42.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio12.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio12.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio22.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio22.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio32.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio32.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio42.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejercicio42.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Datos1.txt
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Datos2.txt
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales1-12.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales1-22.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales22.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales1-12.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales1-12.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales1-22.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales1-22.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales22.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Bidimensionales22.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejemplo 1 Propuesta 2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MatrizSumaFCD2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MiPrimeraClase2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Número Mayor y Menor 2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\RegistroProductos2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Torneo Futbol 2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejemplo 1 Propuesta 2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Ejemplo 1 Propuesta 2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MatrizSumaFCD2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MatrizSumaFCD2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Número Mayor y Menor 2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Número Mayor y Menor 2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MiPrimeraClase2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\MiPrimeraClase2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\RegistroProductos2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\RegistroProductos2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Torneo Futbol 2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Catálogo de Programas\bin\Debug\Torneo Futbol 2.exe.config

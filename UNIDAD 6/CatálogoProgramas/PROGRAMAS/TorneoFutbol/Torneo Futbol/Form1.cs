@@ -4,7 +4,6 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,7 +16,6 @@ namespace Torneo_Futbol
         ClassTorneo objTorneo = new ClassTorneo();
         int Mayor;
         string Ganador;
-        TextWriter Archivo;
         public frmTorneoFutbol()
         {
             InitializeComponent();
@@ -75,13 +73,8 @@ namespace Torneo_Futbol
         private void btnMostrarCampeon_Click(object sender, EventArgs e)
         {
             MessageBox.Show(objTorneo.CalcularGanador(Mayor, Ganador), "¡Felicidades!", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            Archivo.Write(objTorneo.CalcularGanador(Mayor, Ganador));
-            Archivo.Close();
         }
 
-        private void frmTorneoFutbol_Load(object sender, EventArgs e)
-        {
-            Archivo = new StreamWriter("Datos.txt");
-        }
+        
     }
 }

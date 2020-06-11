@@ -1,0 +1,20 @@
+C:\Users\odrau\Desktop\Unidad1POO\Embotelladora\bin\Debug\Embotelladora.exe.config
+C:\Users\odrau\Desktop\Unidad1POO\Embotelladora\bin\Debug\Embotelladora.exe
+C:\Users\odrau\Desktop\Unidad1POO\Embotelladora\bin\Debug\Embotelladora.pdb
+C:\Users\odrau\Desktop\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.FmrEmbotelladora.resources
+C:\Users\odrau\Desktop\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.Properties.Resources.resources
+C:\Users\odrau\Desktop\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.exe
+C:\Users\odrau\Desktop\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Unidad1POO\Embotelladora\bin\Debug\Embotelladora.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Unidad1POO\Embotelladora\bin\Debug\Embotelladora.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Unidad1POO\Embotelladora\bin\Debug\Embotelladora.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.FmrEmbotelladora.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.pdb

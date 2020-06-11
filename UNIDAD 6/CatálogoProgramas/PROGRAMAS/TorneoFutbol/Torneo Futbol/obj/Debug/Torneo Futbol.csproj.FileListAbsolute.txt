@@ -8,13 +8,13 @@ C:\Users\odrau\Desktop\UNIDAD 5\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo Futb
 C:\Users\odrau\Desktop\UNIDAD 5\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo Futbol.csproj.CoreCompileInputs.cache
 C:\Users\odrau\Desktop\UNIDAD 5\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo Futbol.exe
 C:\Users\odrau\Desktop\UNIDAD 5\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo Futbol.pdb
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\TorneoFutbol\Torneo Futbol\bin\Debug\Torneo Futbol.exe.config
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\TorneoFutbol\Torneo Futbol\bin\Debug\Torneo Futbol.exe
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\TorneoFutbol\Torneo Futbol\bin\Debug\Torneo Futbol.pdb
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo Futbol.csprojAssemblyReference.cache
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo_Futbol.frmTorneoFutbol.resources
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo_Futbol.Properties.Resources.resources
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo Futbol.csproj.GenerateResource.cache
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo Futbol.csproj.CoreCompileInputs.cache
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo Futbol.exe
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo Futbol.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol\Torneo Futbol\bin\Debug\Torneo Futbol.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol\Torneo Futbol\bin\Debug\Torneo Futbol.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol\Torneo Futbol\bin\Debug\Torneo Futbol.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo Futbol.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo_Futbol.frmTorneoFutbol.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo_Futbol.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo Futbol.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo Futbol.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo Futbol.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol\Torneo Futbol\obj\Debug\Torneo Futbol.pdb

@@ -1,0 +1,20 @@
+C:\Users\odrau\Desktop\Ejercicio32\Ejercicio32\bin\Debug\Ejercicio32.exe.config
+C:\Users\odrau\Desktop\Ejercicio32\Ejercicio32\bin\Debug\Ejercicio32.exe
+C:\Users\odrau\Desktop\Ejercicio32\Ejercicio32\bin\Debug\Ejercicio32.pdb
+C:\Users\odrau\Desktop\Ejercicio32\Ejercicio32\obj\Debug\Ejercicio32.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\Ejercicio32\Ejercicio32\obj\Debug\Ejercicio32.FrmRegistroEscolar3.resources
+C:\Users\odrau\Desktop\Ejercicio32\Ejercicio32\obj\Debug\Ejercicio32.Properties.Resources.resources
+C:\Users\odrau\Desktop\Ejercicio32\Ejercicio32\obj\Debug\Ejercicio32.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\Ejercicio32\Ejercicio32\obj\Debug\Ejercicio32.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\Ejercicio32\Ejercicio32\obj\Debug\Ejercicio32.exe
+C:\Users\odrau\Desktop\Ejercicio32\Ejercicio32\obj\Debug\Ejercicio32.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio32\Ejercicio32\bin\Debug\Ejercicio32.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio32\Ejercicio32\bin\Debug\Ejercicio32.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio32\Ejercicio32\bin\Debug\Ejercicio32.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio32\Ejercicio32\obj\Debug\Ejercicio32.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio32\Ejercicio32\obj\Debug\Ejercicio32.FrmRegistroEscolar3.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio32\Ejercicio32\obj\Debug\Ejercicio32.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio32\Ejercicio32\obj\Debug\Ejercicio32.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio32\Ejercicio32\obj\Debug\Ejercicio32.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio32\Ejercicio32\obj\Debug\Ejercicio32.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio32\Ejercicio32\obj\Debug\Ejercicio32.pdb

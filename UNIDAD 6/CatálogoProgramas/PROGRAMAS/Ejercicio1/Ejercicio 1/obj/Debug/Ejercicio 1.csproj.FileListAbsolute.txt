@@ -1,0 +1,20 @@
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio1\Ejercicio 1\obj\Debug\Ejercicio 1.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio1\Ejercicio 1\obj\Debug\Ejercicio_1.frmPaises.resources
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio1\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio1\Ejercicio 1\obj\Debug\Ejercicio 1.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio1\Ejercicio 1\obj\Debug\Ejercicio_1.frmPaises.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio1\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb

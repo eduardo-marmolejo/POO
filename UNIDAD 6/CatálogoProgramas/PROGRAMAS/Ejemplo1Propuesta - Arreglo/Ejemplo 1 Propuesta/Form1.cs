@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,9 +13,6 @@ namespace Ejemplo_1_Propuesta
     public partial class frmPromedio : Form
     {
         ClassPromedio objPromedio = new ClassPromedio();
-
-        TextWriter Archivo;
-
         public frmPromedio()
         {
             InitializeComponent();
@@ -37,13 +33,6 @@ namespace Ejemplo_1_Propuesta
             }
             objPromedio.Promedio();
             lblPromedio.Text = objPromedio.Promedion.ToString();
-            Archivo.Write(objPromedio.Promedion);
-            Archivo.Close();
-        }
-
-        private void frmPromedio_Load(object sender, EventArgs e)
-        {
-            Archivo = new StreamWriter("Datos.txt");
         }
     }
 }

@@ -1,0 +1,20 @@
+C:\Users\odrau\Desktop\Ejercicio22\Ejercicio22\bin\Debug\Ejercicio22.exe.config
+C:\Users\odrau\Desktop\Ejercicio22\Ejercicio22\bin\Debug\Ejercicio22.exe
+C:\Users\odrau\Desktop\Ejercicio22\Ejercicio22\bin\Debug\Ejercicio22.pdb
+C:\Users\odrau\Desktop\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.frmPaises22.resources
+C:\Users\odrau\Desktop\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.Properties.Resources.resources
+C:\Users\odrau\Desktop\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.exe
+C:\Users\odrau\Desktop\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio22\Ejercicio22\bin\Debug\Ejercicio22.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio22\Ejercicio22\bin\Debug\Ejercicio22.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio22\Ejercicio22\bin\Debug\Ejercicio22.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.frmPaises22.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.pdb

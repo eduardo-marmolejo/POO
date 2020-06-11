@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -177,6 +180,192 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PROGRAMAS\Bidimensionales1-12\Bidimensionales1-12\Bidimensionales1-12.csproj">
+      <Project>{d10fa445-b270-4d7a-aae2-90925bcde55e}</Project>
+      <Name>Bidimensionales1-12</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Bidimensionales1-1\Bidimensionales 1-1\Bidimensionales 1-1.csproj">
+      <Project>{e638ba4f-8630-4802-918a-dc13cf46284d}</Project>
+      <Name>Bidimensionales 1-1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Bidimensionales1-22\Bidimensionales1-22\Bidimensionales1-22.csproj">
+      <Project>{0a40de80-2172-4189-99da-e53866522e48}</Project>
+      <Name>Bidimensionales1-22</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Bidimensionales1-2\Bidimensionales 1-2\Bidimensionales 1-2.csproj">
+      <Project>{f30bc502-2094-4d4a-8fcc-21cdf7d2b227}</Project>
+      <Name>Bidimensionales 1-2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Bidimensionales22\Bidimensionales22\Bidimensionales22.csproj">
+      <Project>{8a84b0cc-1ed9-4b8e-9326-89ecb33a5f70}</Project>
+      <Name>Bidimensionales22</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Bidimensionales2\Bidimensionales 2\Bidimensionales 2.csproj">
+      <Project>{7ad3ebea-5ec7-4bb6-bfbf-317caee917c8}</Project>
+      <Name>Bidimensionales 2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Calificaciones\Calificaciones\Calificaciones.csproj">
+      <Project>{0a5d30f6-eda4-453f-8d80-de644057a06e}</Project>
+      <Name>Calificaciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\CasetaCobro\Caseta de Cobro\Caseta de Cobro.csproj">
+      <Project>{404c3777-ac74-46ab-b483-1bb1099b7fad}</Project>
+      <Name>Caseta de Cobro</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\CFE\CFE\CFE.csproj">
+      <Project>{50d5524d-ca12-422c-99f7-90c3f5de160b}</Project>
+      <Name>CFE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Cuadrado\Cuadrado\Cuadrado.csproj">
+      <Project>{a0a90940-a2ef-4810-aab7-d9ae8dfff304}</Project>
+      <Name>Cuadrado</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Ejemplo1Propuesta - Arreglo\Ejemplo 1 Propuesta\Ejemplo 1 Propuesta.csproj">
+      <Project>{d07dded4-ab43-4000-a147-561f5c19dce6}</Project>
+      <Name>Ejemplo 1 Propuesta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Ejemplo1Propuesta2\Ejemplo 1 Propuesta 2\Ejemplo 1 Propuesta 2.csproj">
+      <Project>{c142a129-ec4a-458a-ae02-9ea6499bebee}</Project>
+      <Name>Ejemplo 1 Propuesta 2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Ejercicio03\Ejercicio03\Ejercicio03.csproj">
+      <Project>{d7f858c2-a7bb-40ba-bfb1-d6307845bdcb}</Project>
+      <Name>Ejercicio03</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Ejercicio12\Ejercicio12\Ejercicio12.csproj">
+      <Project>{5ea6b784-9d0e-42c0-8391-e8df0c75aa7f}</Project>
+      <Name>Ejercicio12</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Ejercicio1\Ejercicio 1\Ejercicio 1.csproj">
+      <Project>{c404c46d-4a88-4e0a-87fb-cd44c6911694}</Project>
+      <Name>Ejercicio 1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Ejercicio22\Ejercicio22\Ejercicio22.csproj">
+      <Project>{6a5460d6-ec9f-48c7-8c07-01cb7f743389}</Project>
+      <Name>Ejercicio22</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Ejercicio2\Ejercicio 2\Ejercicio 2.csproj">
+      <Project>{80ce256e-e4d2-4026-91dc-fcc746d60dcf}</Project>
+      <Name>Ejercicio 2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Ejercicio32\Ejercicio32\Ejercicio32.csproj">
+      <Project>{4f537544-91b0-453c-adf4-bf1ac82fc0e0}</Project>
+      <Name>Ejercicio32</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Ejercicio42\Ejercicio42\Ejercicio42.csproj">
+      <Project>{f764e795-7efa-4401-9e11-632704839cd1}</Project>
+      <Name>Ejercicio42</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Ejercicio4\Ejercicio4\Ejercicio 4.csproj">
+      <Project>{c6516f26-2ff2-4014-b0ce-83eaca259476}</Project>
+      <Name>Ejercicio 4</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\EmpleadosRestaurante\Empleados Restaurante\Empleados Restaurante.csproj">
+      <Project>{17119087-f84f-49c6-bc3b-20a5d16c395f}</Project>
+      <Name>Empleados Restaurante</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Examen23\Examen23\Temperaturas.csproj">
+      <Project>{7a43c3e4-6772-4a88-8ce2-398aff2f16d8}</Project>
+      <Name>Temperaturas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\FechaNacimiento\Fecha de Nacimiento\Fecha de Nacimiento.csproj">
+      <Project>{e7519e4b-7525-4161-bbec-10048ed761a5}</Project>
+      <Name>Fecha de Nacimiento</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\FigurasGeométricas2\Figuras Geométricas 2\Figuras Geométricas 2.csproj">
+      <Project>{07c9741c-da1f-4753-a50d-269bc55df63d}</Project>
+      <Name>Figuras Geométricas 2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\FigurasGeométricas\Figuras Geométricas\Figuras Geométricas.csproj">
+      <Project>{b550ecbe-aa2a-4219-b245-d3d76af4475c}</Project>
+      <Name>Figuras Geométricas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\INTERFACE\EJERCICIO DE INTERFACE\InterfacesEjercicio1\Interfaces Ejercicio 1\Interfaces Ejercicio 1.csproj">
+      <Project>{6cbf7aaa-fcd9-4445-a2ac-38be5850a0b9}</Project>
+      <Name>Interfaces Ejercicio 1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\MatrizSumaFCD2\MatrizSumaFCD2\MatrizSumaFCD2.csproj">
+      <Project>{40945418-329b-4e03-8894-836a1fb5b4b5}</Project>
+      <Name>MatrizSumaFCD2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\MatrizSumaFCD\MatrizSumaFCD\MatrizSumaFCD.csproj">
+      <Project>{ca26b974-382a-443f-b766-c3832b6f7c79}</Project>
+      <Name>MatrizSumaFCD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\MayoryMenor2\Número Mayor y Menor 2\Número Mayor y Menor 2.csproj">
+      <Project>{086a3f7f-05e6-4f05-b582-ad6f61fc0a50}</Project>
+      <Name>Número Mayor y Menor 2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\MayoryMenor\Número Mayor y Menor\Número Mayor y Menor.csproj">
+      <Project>{c14635c4-620b-444e-8626-1a0819b415c1}</Project>
+      <Name>Número Mayor y Menor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\MiPrimeraClase%28Video%292\MiPrimeraClase2\MiPrimeraClase2.csproj">
+      <Project>{82550638-254b-483f-a7e6-7658197e276d}</Project>
+      <Name>MiPrimeraClase2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\MiPrimeraClase%28Video%29\MiPrimeraClase\MiPrimeraClase.csproj">
+      <Project>{6172736c-de28-4204-931d-2caeba4558a8}</Project>
+      <Name>MiPrimeraClase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\MiPrimerProyectoConsola\MiPrimerProyectoConsola.csproj">
+      <Project>{df2fdd9b-9f0b-4683-8eef-863e0e7282f5}</Project>
+      <Name>MiPrimerProyectoConsola</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\MiPrimerProyectoWindowsForm\MiPrimerProyectoWindowsForm.csproj">
+      <Project>{53b2b389-9b7f-42bd-a53f-334c0b92c731}</Project>
+      <Name>MiPrimerProyectoWindowsForm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Operaciones\Operaciones\Operaciones.csproj">
+      <Project>{f08aa2d1-3fe1-4554-a82e-87a5d51655f0}</Project>
+      <Name>Operaciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Piedra, Papel y Tijeras\PiedraPapelTijeras\PiedraPapelTijeras.csproj">
+      <Project>{02031165-eb6d-4be0-ab42-cc0322de5247}</Project>
+      <Name>PiedraPapelTijeras</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Registro de Productos\RegistroProductos\RegistroProductos\RegistroProductos.csproj">
+      <Project>{adb3fc89-b3e3-477e-af17-0ee40bb5c6f5}</Project>
+      <Name>RegistroProductos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\RegistroConcierto\Concierto\Concierto.csproj">
+      <Project>{c7804e8f-e148-4055-b3e1-21876e78ea8a}</Project>
+      <Name>Concierto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\RegistroPersonas\Personas\Personas.csproj">
+      <Project>{a8e19611-0195-42d0-8617-4ceeee172ab1}</Project>
+      <Name>Personas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\RegistroProductos2\RegistroProductos2\RegistroProductos2.csproj">
+      <Project>{a6b915c6-fb59-4b4a-9e06-789090cdaa75}</Project>
+      <Name>RegistroProductos2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Temperatura\Temperatura\Temperatura.csproj">
+      <Project>{7bab04be-6633-46d2-b986-933f96d47369}</Project>
+      <Name>Temperatura</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\TorneoFutbol2\Torneo Futbol 2\Torneo Futbol 2.csproj">
+      <Project>{b522a043-69fc-4695-a53b-d3cc42e0ffe6}</Project>
+      <Name>Torneo Futbol 2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\TorneoFutbol\Torneo Futbol\Torneo Futbol.csproj">
+      <Project>{c11d0893-c4a1-4827-a8ad-6a3ea4a172dd}</Project>
+      <Name>Torneo Futbol</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Unidad1POO\Embotelladora\Embotelladora.csproj">
+      <Project>{acde0d31-64ed-42f9-b11a-285bcbea7d87}</Project>
+      <Name>Embotelladora</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Vacaciones\Vacaciones\Vacaciones.csproj">
+      <Project>{64eaa926-ccba-4381-b715-b1590c4e40e1}</Project>
+      <Name>Vacaciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PROGRAMAS\Vehículos\Vehículos\Vehículos.csproj">
+      <Project>{4608a25e-f69f-4fe2-b15a-d9b0e2d3dce0}</Project>
+      <Name>Vehículos</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

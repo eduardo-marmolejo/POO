@@ -8,13 +8,13 @@ C:\Users\odrau\Desktop\UNIDAD 5\RegistroProductos\RegistroProductos\obj\Debug\Re
 C:\Users\odrau\Desktop\UNIDAD 5\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.csproj.CoreCompileInputs.cache
 C:\Users\odrau\Desktop\UNIDAD 5\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.exe
 C:\Users\odrau\Desktop\UNIDAD 5\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.pdb
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Registro de Productos\RegistroProductos\RegistroProductos\bin\Debug\RegistroProductos.exe.config
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Registro de Productos\RegistroProductos\RegistroProductos\bin\Debug\RegistroProductos.exe
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Registro de Productos\RegistroProductos\RegistroProductos\bin\Debug\RegistroProductos.pdb
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Registro de Productos\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.csprojAssemblyReference.cache
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Registro de Productos\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.frmRegProd.resources
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Registro de Productos\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.Properties.Resources.resources
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Registro de Productos\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.csproj.GenerateResource.cache
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Registro de Productos\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.csproj.CoreCompileInputs.cache
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Registro de Productos\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.exe
-C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\Registro de Productos\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Registro de Productos\RegistroProductos\RegistroProductos\bin\Debug\RegistroProductos.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Registro de Productos\RegistroProductos\RegistroProductos\bin\Debug\RegistroProductos.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Registro de Productos\RegistroProductos\RegistroProductos\bin\Debug\RegistroProductos.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Registro de Productos\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Registro de Productos\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.frmRegProd.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Registro de Productos\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Registro de Productos\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Registro de Productos\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Registro de Productos\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Registro de Productos\RegistroProductos\RegistroProductos\obj\Debug\RegistroProductos.pdb

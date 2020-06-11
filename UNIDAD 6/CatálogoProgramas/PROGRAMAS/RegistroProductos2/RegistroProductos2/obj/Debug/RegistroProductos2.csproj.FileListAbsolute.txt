@@ -1,0 +1,20 @@
+C:\Users\odrau\Desktop\RegistroProductos2\RegistroProductos2\bin\Debug\RegistroProductos2.exe.config
+C:\Users\odrau\Desktop\RegistroProductos2\RegistroProductos2\bin\Debug\RegistroProductos2.exe
+C:\Users\odrau\Desktop\RegistroProductos2\RegistroProductos2\bin\Debug\RegistroProductos2.pdb
+C:\Users\odrau\Desktop\RegistroProductos2\RegistroProductos2\obj\Debug\RegistroProductos2.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\RegistroProductos2\RegistroProductos2\obj\Debug\RegistroProductos2.frmRegProd2.resources
+C:\Users\odrau\Desktop\RegistroProductos2\RegistroProductos2\obj\Debug\RegistroProductos2.Properties.Resources.resources
+C:\Users\odrau\Desktop\RegistroProductos2\RegistroProductos2\obj\Debug\RegistroProductos2.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\RegistroProductos2\RegistroProductos2\obj\Debug\RegistroProductos2.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\RegistroProductos2\RegistroProductos2\obj\Debug\RegistroProductos2.exe
+C:\Users\odrau\Desktop\RegistroProductos2\RegistroProductos2\obj\Debug\RegistroProductos2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\RegistroProductos2\RegistroProductos2\bin\Debug\RegistroProductos2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\RegistroProductos2\RegistroProductos2\bin\Debug\RegistroProductos2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\RegistroProductos2\RegistroProductos2\bin\Debug\RegistroProductos2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\RegistroProductos2\RegistroProductos2\obj\Debug\RegistroProductos2.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\RegistroProductos2\RegistroProductos2\obj\Debug\RegistroProductos2.frmRegProd2.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\RegistroProductos2\RegistroProductos2\obj\Debug\RegistroProductos2.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\RegistroProductos2\RegistroProductos2\obj\Debug\RegistroProductos2.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\RegistroProductos2\RegistroProductos2\obj\Debug\RegistroProductos2.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\RegistroProductos2\RegistroProductos2\obj\Debug\RegistroProductos2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\RegistroProductos2\RegistroProductos2\obj\Debug\RegistroProductos2.pdb

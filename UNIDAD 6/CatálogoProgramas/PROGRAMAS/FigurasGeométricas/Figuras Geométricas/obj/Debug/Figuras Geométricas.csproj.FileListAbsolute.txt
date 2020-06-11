@@ -1,0 +1,29 @@
+C:\Users\odrau\Desktop\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.frmFiguras.resources
+C:\Users\odrau\Desktop\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\bin\Debug\Figuras Geométricas.exe.config
+C:\Users\odrau\Desktop\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\bin\Debug\Figuras Geométricas.exe
+C:\Users\odrau\Desktop\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\bin\Debug\Figuras Geométricas.pdb
+C:\Users\odrau\Desktop\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.exe
+C:\Users\odrau\Desktop\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.pdb
+C:\Users\odrau\Desktop\POO\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\bin\Debug\Figuras Geométricas.exe.config
+C:\Users\odrau\Desktop\POO\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\bin\Debug\Figuras Geométricas.exe
+C:\Users\odrau\Desktop\POO\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\bin\Debug\Figuras Geométricas.pdb
+C:\Users\odrau\Desktop\POO\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\POO\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.frmFiguras.resources
+C:\Users\odrau\Desktop\POO\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Properties.Resources.resources
+C:\Users\odrau\Desktop\POO\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\POO\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\POO\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.exe
+C:\Users\odrau\Desktop\POO\UNIDAD 4\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\FigurasGeométricas\Figuras Geométricas\bin\Debug\Figuras Geométricas.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\FigurasGeométricas\Figuras Geométricas\bin\Debug\Figuras Geométricas.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\FigurasGeométricas\Figuras Geométricas\bin\Debug\Figuras Geométricas.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.frmFiguras.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras_Geométricas.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\FigurasGeométricas\Figuras Geométricas\obj\Debug\Figuras Geométricas.pdb

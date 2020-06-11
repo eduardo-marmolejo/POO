@@ -92,7 +92,6 @@
             this.Controls.Add(this.label1);
             this.Name = "frmPromedio";
             this.Text = "Promedio";
-            this.Load += new System.EventHandler(this.frmPromedio_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

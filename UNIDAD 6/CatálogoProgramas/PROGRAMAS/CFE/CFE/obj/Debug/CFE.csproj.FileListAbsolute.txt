@@ -1,0 +1,19 @@
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CFE\CFE\bin\Debug\CFE.exe.config
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CFE\CFE\bin\Debug\CFE.exe
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CFE\CFE\bin\Debug\CFE.pdb
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CFE\CFE\obj\Debug\CFE.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CFE\CFE\obj\Debug\CFE.fmrCFE.resources
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CFE\CFE\obj\Debug\CFE.Properties.Resources.resources
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CFE\CFE\obj\Debug\CFE.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CFE\CFE\obj\Debug\CFE.exe
+C:\Users\odrau\Desktop\DERECHO A EXAMEN\CFE\CFE\obj\Debug\CFE.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\CFE\CFE\bin\Debug\CFE.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\CFE\CFE\bin\Debug\CFE.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\CFE\CFE\bin\Debug\CFE.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\CFE\CFE\obj\Debug\CFE.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\CFE\CFE\obj\Debug\CFE.fmrCFE.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\CFE\CFE\obj\Debug\CFE.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\CFE\CFE\obj\Debug\CFE.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\CFE\CFE\obj\Debug\CFE.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\CFE\CFE\obj\Debug\CFE.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\CFE\CFE\obj\Debug\CFE.pdb

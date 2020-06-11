@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Examen23;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -39,7 +40,11 @@ namespace Catálogo_de_Programas
 
         private void btnExa23_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Examen23.exe");
+            frmTemperaturas frm = new frmTemperaturas();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Examen23.exe");
         }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\odrau\Desktop\Bidimensionales22\Bidimensionales22\bin\Debug\Bidimensionales22.exe.config
+C:\Users\odrau\Desktop\Bidimensionales22\Bidimensionales22\bin\Debug\Bidimensionales22.exe
+C:\Users\odrau\Desktop\Bidimensionales22\Bidimensionales22\bin\Debug\Bidimensionales22.pdb
+C:\Users\odrau\Desktop\Bidimensionales22\Bidimensionales22\obj\Debug\Bidimensionales22.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\Bidimensionales22\Bidimensionales22\obj\Debug\Bidimensionales22.frmOperaciones2.resources
+C:\Users\odrau\Desktop\Bidimensionales22\Bidimensionales22\obj\Debug\Bidimensionales22.Properties.Resources.resources
+C:\Users\odrau\Desktop\Bidimensionales22\Bidimensionales22\obj\Debug\Bidimensionales22.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\Bidimensionales22\Bidimensionales22\obj\Debug\Bidimensionales22.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\Bidimensionales22\Bidimensionales22\obj\Debug\Bidimensionales22.exe
+C:\Users\odrau\Desktop\Bidimensionales22\Bidimensionales22\obj\Debug\Bidimensionales22.pdb

@@ -166,7 +166,6 @@
             this.Controls.Add(this.txtMatriz);
             this.Name = "frmMatrizSumaFCD";
             this.Text = "MatrizSumaFCD";
-            this.Load += new System.EventHandler(this.frmMatrizSumaFCD_Load);
             ((System.ComponentModel.ISupportInitialize)(this.nudNumMatriz)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

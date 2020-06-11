@@ -4,7 +4,6 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,10 +18,6 @@ namespace MatrizSumaFCD
         string AcumC;
         string AcumF;
         string AcumD;
-
-        TextWriter archivofila;
-        TextWriter archivocolumna;
-        TextWriter archivodiagonal;
         public frmMatrizSumaFCD()
         {
             InitializeComponent();
@@ -55,8 +50,6 @@ namespace MatrizSumaFCD
                 AcumF += objMatrizSumas.SumaFilas[f] + " ";
                 txtSumaFilas.Text = AcumF;
             }
-            archivofila.Write(AcumF);
-            archivofila.Close();
         }
 
         private void btnSumaColumnas_Click(object sender, EventArgs e)
@@ -68,8 +61,6 @@ namespace MatrizSumaFCD
                 AcumC += objMatrizSumas.SumaColumnas[f] + "\n";
                 txtSumaColumnas.Text = AcumC;
             }
-            archivocolumna.Write(AcumC);
-            archivocolumna.Close();
         }
 
         private void btnMostrarEleDiagonal_Click(object sender, EventArgs e)
@@ -80,15 +71,6 @@ namespace MatrizSumaFCD
         private void btnSumaDiagonal_Click(object sender, EventArgs e)
         {
             lblSumaDiagonal.Text = objMatrizSumas.SumaDiagonal();
-            archivodiagonal.Write(objMatrizSumas.SumaDiagonal());
-            archivodiagonal.Close();
-        }
-
-        private void frmMatrizSumaFCD_Load(object sender, EventArgs e)
-        {
-            archivofila = new StreamWriter("ArchivoFilas.txt");
-            archivocolumna = new StreamWriter("ArchivoColumnas.txt");
-            archivodiagonal = new StreamWriter("ArchivoDiag.txt");
         }
     }
 }

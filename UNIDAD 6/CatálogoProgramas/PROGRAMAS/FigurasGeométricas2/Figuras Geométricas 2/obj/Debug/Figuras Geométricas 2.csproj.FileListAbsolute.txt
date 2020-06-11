@@ -1,0 +1,10 @@
+C:\Users\odrau\Desktop\FigurasGeométricas2\Figuras Geométricas 2\bin\Debug\Figuras Geométricas 2.exe.config
+C:\Users\odrau\Desktop\FigurasGeométricas2\Figuras Geométricas 2\bin\Debug\Figuras Geométricas 2.exe
+C:\Users\odrau\Desktop\FigurasGeométricas2\Figuras Geométricas 2\bin\Debug\Figuras Geométricas 2.pdb
+C:\Users\odrau\Desktop\FigurasGeométricas2\Figuras Geométricas 2\obj\Debug\Figuras Geométricas 2.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\FigurasGeométricas2\Figuras Geométricas 2\obj\Debug\Figuras_Geométricas_2.FrmFiguras2.resources
+C:\Users\odrau\Desktop\FigurasGeométricas2\Figuras Geométricas 2\obj\Debug\Figuras_Geométricas_2.Properties.Resources.resources
+C:\Users\odrau\Desktop\FigurasGeométricas2\Figuras Geométricas 2\obj\Debug\Figuras Geométricas 2.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\FigurasGeométricas2\Figuras Geométricas 2\obj\Debug\Figuras Geométricas 2.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\FigurasGeométricas2\Figuras Geométricas 2\obj\Debug\Figuras Geométricas 2.exe
+C:\Users\odrau\Desktop\FigurasGeométricas2\Figuras Geométricas 2\obj\Debug\Figuras Geométricas 2.pdb

@@ -1,0 +1,19 @@
+C:\Users\odrau\Desktop\UNIDAD 5\MiPrimeraClase(Video)\MiPrimeraClase\bin\Debug\MiPrimeraClase.exe.config
+C:\Users\odrau\Desktop\UNIDAD 5\MiPrimeraClase(Video)\MiPrimeraClase\bin\Debug\MiPrimeraClase.exe
+C:\Users\odrau\Desktop\UNIDAD 5\MiPrimeraClase(Video)\MiPrimeraClase\bin\Debug\MiPrimeraClase.pdb
+C:\Users\odrau\Desktop\UNIDAD 5\MiPrimeraClase(Video)\MiPrimeraClase\obj\Debug\MiPrimeraClase.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 5\MiPrimeraClase(Video)\MiPrimeraClase\obj\Debug\MiPrimeraClase.frmPersonas.resources
+C:\Users\odrau\Desktop\UNIDAD 5\MiPrimeraClase(Video)\MiPrimeraClase\obj\Debug\MiPrimeraClase.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 5\MiPrimeraClase(Video)\MiPrimeraClase\obj\Debug\MiPrimeraClase.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 5\MiPrimeraClase(Video)\MiPrimeraClase\obj\Debug\MiPrimeraClase.exe
+C:\Users\odrau\Desktop\UNIDAD 5\MiPrimeraClase(Video)\MiPrimeraClase\obj\Debug\MiPrimeraClase.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\MiPrimeraClase(Video)\MiPrimeraClase\bin\Debug\MiPrimeraClase.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\MiPrimeraClase(Video)\MiPrimeraClase\bin\Debug\MiPrimeraClase.exe
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\MiPrimeraClase(Video)\MiPrimeraClase\bin\Debug\MiPrimeraClase.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\MiPrimeraClase(Video)\MiPrimeraClase\obj\Debug\MiPrimeraClase.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\MiPrimeraClase(Video)\MiPrimeraClase\obj\Debug\MiPrimeraClase.frmPersonas.resources
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\MiPrimeraClase(Video)\MiPrimeraClase\obj\Debug\MiPrimeraClase.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\MiPrimeraClase(Video)\MiPrimeraClase\obj\Debug\MiPrimeraClase.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\MiPrimeraClase(Video)\MiPrimeraClase\obj\Debug\MiPrimeraClase.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\MiPrimeraClase(Video)\MiPrimeraClase\obj\Debug\MiPrimeraClase.exe
+C:\Users\odrau\Desktop\UNIDAD 6\PROYECTOS DE LA UNIDAD 5 IMPLEMENTANDO ARCHIVOS\MiPrimeraClase(Video)\MiPrimeraClase\obj\Debug\MiPrimeraClase.pdb

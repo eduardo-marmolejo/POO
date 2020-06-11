@@ -1,0 +1,2 @@
+El numero mayor es: 9
+El numero menor es: 2

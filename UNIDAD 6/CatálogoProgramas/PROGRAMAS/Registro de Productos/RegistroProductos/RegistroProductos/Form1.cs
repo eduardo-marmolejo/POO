@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,11 +13,6 @@ namespace RegistroProductos
     public partial class frmRegProd : Form
     {
         RegProd objRegProd = new RegProd();
-
-        TextWriter Archivo;
-        TextWriter Archivo2;
-        TextWriter Archivo3;
-
         public frmRegProd()
         {
             InitializeComponent();
@@ -58,13 +52,6 @@ namespace RegistroProductos
                     btnVender.Enabled = true;
                     objRegProd.Buscar = 1;
 
-                    Archivo.Write(objRegProd.Producto);
-                    Archivo.Close();
-                    Archivo2.Write(objRegProd.NomProducto[i, 1]);
-                    Archivo2.Close();
-                    Archivo3.Write(objRegProd.NomProducto[i, 2]);
-                    Archivo3.Close();
-
                 }
             }
             txtVender.Clear();
@@ -94,13 +81,6 @@ namespace RegistroProductos
             txtNomProd.Clear();
             lblPrecio.Text="0";
             lblStock.Text = "0";
-        }
-
-        private void frmRegProd_Load(object sender, EventArgs e)
-        {
-            Archivo = new StreamWriter("DatosProducto.txt");
-            Archivo2 = new StreamWriter("DatosPrecio.txt");
-            Archivo3 = new StreamWriter("DatosStock.txt");
         }
     }
 }

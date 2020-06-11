@@ -1,0 +1,30 @@
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio4\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio4\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio4\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio4\Ejercicio 3\obj\Debug\Ejercicio 4.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio4\Ejercicio 3\obj\Debug\Ejercicio_3.Form1.resources
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio4\Ejercicio 3\obj\Debug\Ejercicio_3.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio4\Ejercicio 3\obj\Debug\Ejercicio 4.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio4\Ejercicio 3\obj\Debug\Ejercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio4\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\Users\odrau\Desktop\UNIDAD 5\ARREGLOS - Actividad 2.2\Ejercicio4\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
+C:\Users\odrau\Desktop\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio 3.exe.config
+C:\Users\odrau\Desktop\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio 3.exe
+C:\Users\odrau\Desktop\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio 3.pdb
+C:\Users\odrau\Desktop\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio 4.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio_3.Properties.Resources.resources
+C:\Users\odrau\Desktop\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio 4.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio 3.exe
+C:\Users\odrau\Desktop\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio 3.pdb
+C:\Users\odrau\Desktop\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Form1.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio 3.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio 3.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio 3.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio 4.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.frmREG2.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio_3.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio 4.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio 3.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio 3.pdb

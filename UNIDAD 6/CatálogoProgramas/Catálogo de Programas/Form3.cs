@@ -1,4 +1,8 @@
-﻿using System;
+﻿using Calificaciones;
+using Concierto;
+using Embotelladora;
+using Personas;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -38,22 +42,38 @@ namespace Catálogo_de_Programas
 
         private void btnCal_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Calificaciones.exe");
+            fmrCalificaciones frm = new fmrCalificaciones();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Calificaciones.exe");
         }
 
         private void btnRegCon_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Concierto.exe");
+            fmrConcierto frm = new fmrConcierto();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Concierto.exe");
         }
 
         private void btnRegPer_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Personas.exe");
+            frmPersonas frm = new frmPersonas();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Personas.exe");
         }
 
         private void btnEmbotelladora_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Embotelladora.exe");
+            FmrEmbotelladora frm = new FmrEmbotelladora();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Embotelladora.exe");
         }
     }
 }

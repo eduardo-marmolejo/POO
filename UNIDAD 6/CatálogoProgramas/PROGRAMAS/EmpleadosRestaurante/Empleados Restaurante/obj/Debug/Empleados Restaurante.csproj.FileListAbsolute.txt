@@ -1,0 +1,19 @@
+C:\Users\odrau\Desktop\UNIDAD 4\EmpleadosRestaurante\Empleados Restaurante\bin\Debug\Empleados Restaurante.exe.config
+C:\Users\odrau\Desktop\UNIDAD 4\EmpleadosRestaurante\Empleados Restaurante\bin\Debug\Empleados Restaurante.exe
+C:\Users\odrau\Desktop\UNIDAD 4\EmpleadosRestaurante\Empleados Restaurante\bin\Debug\Empleados Restaurante.pdb
+C:\Users\odrau\Desktop\UNIDAD 4\EmpleadosRestaurante\Empleados Restaurante\obj\Debug\Empleados Restaurante.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 4\EmpleadosRestaurante\Empleados Restaurante\obj\Debug\Empleados_Restaurante.frmEmpleado.resources
+C:\Users\odrau\Desktop\UNIDAD 4\EmpleadosRestaurante\Empleados Restaurante\obj\Debug\Empleados_Restaurante.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 4\EmpleadosRestaurante\Empleados Restaurante\obj\Debug\Empleados Restaurante.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 4\EmpleadosRestaurante\Empleados Restaurante\obj\Debug\Empleados Restaurante.exe
+C:\Users\odrau\Desktop\UNIDAD 4\EmpleadosRestaurante\Empleados Restaurante\obj\Debug\Empleados Restaurante.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\EmpleadosRestaurante\Empleados Restaurante\bin\Debug\Empleados Restaurante.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\EmpleadosRestaurante\Empleados Restaurante\bin\Debug\Empleados Restaurante.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\EmpleadosRestaurante\Empleados Restaurante\bin\Debug\Empleados Restaurante.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\EmpleadosRestaurante\Empleados Restaurante\obj\Debug\Empleados Restaurante.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\EmpleadosRestaurante\Empleados Restaurante\obj\Debug\Empleados_Restaurante.frmEmpleado.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\EmpleadosRestaurante\Empleados Restaurante\obj\Debug\Empleados_Restaurante.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\EmpleadosRestaurante\Empleados Restaurante\obj\Debug\Empleados Restaurante.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\EmpleadosRestaurante\Empleados Restaurante\obj\Debug\Empleados Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\EmpleadosRestaurante\Empleados Restaurante\obj\Debug\Empleados Restaurante.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\EmpleadosRestaurante\Empleados Restaurante\obj\Debug\Empleados Restaurante.pdb

@@ -1,0 +1,16 @@
+C:\Users\odrau\Desktop\Bidimensionales1-12\Bidimensionales1-12\obj\Debug\Bidimensionales1-12.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\Bidimensionales1-12\Bidimensionales1-12\obj\Debug\Bidimensionales1-12.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\Bidimensionales1-12\Bidimensionales1-12\bin\Debug\Datos.txt
+C:\Users\odrau\Desktop\Bidimensionales1-12\Bidimensionales1-12\bin\Debug\Bidimensionales1-12.exe.config
+C:\Users\odrau\Desktop\Bidimensionales1-12\Bidimensionales1-12\bin\Debug\Bidimensionales1-12.exe
+C:\Users\odrau\Desktop\Bidimensionales1-12\Bidimensionales1-12\bin\Debug\Bidimensionales1-12.pdb
+C:\Users\odrau\Desktop\Bidimensionales1-12\Bidimensionales1-12\obj\Debug\Bidimensionales1-12.exe
+C:\Users\odrau\Desktop\Bidimensionales1-12\Bidimensionales1-12\obj\Debug\Bidimensionales1-12.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Bidimensionales1-12\Bidimensionales1-12\bin\Debug\Datos1.txt
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Bidimensionales1-12\Bidimensionales1-12\bin\Debug\Bidimensionales1-12.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Bidimensionales1-12\Bidimensionales1-12\bin\Debug\Bidimensionales1-12.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Bidimensionales1-12\Bidimensionales1-12\bin\Debug\Bidimensionales1-12.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Bidimensionales1-12\Bidimensionales1-12\obj\Debug\Bidimensionales1-12.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Bidimensionales1-12\Bidimensionales1-12\obj\Debug\Bidimensionales1-12.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Bidimensionales1-12\Bidimensionales1-12\obj\Debug\Bidimensionales1-12.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\Bidimensionales1-12\Bidimensionales1-12\obj\Debug\Bidimensionales1-12.pdb

@@ -1,0 +1,20 @@
+C:\Users\odrau\Desktop\MiPrimeraClase(Video)2\MiPrimeraClase2\bin\Debug\MiPrimeraClase2.exe.config
+C:\Users\odrau\Desktop\MiPrimeraClase(Video)2\MiPrimeraClase2\bin\Debug\MiPrimeraClase2.exe
+C:\Users\odrau\Desktop\MiPrimeraClase(Video)2\MiPrimeraClase2\bin\Debug\MiPrimeraClase2.pdb
+C:\Users\odrau\Desktop\MiPrimeraClase(Video)2\MiPrimeraClase2\obj\Debug\MiPrimeraClase2.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\MiPrimeraClase(Video)2\MiPrimeraClase2\obj\Debug\MiPrimeraClase2.frmPersonas2.resources
+C:\Users\odrau\Desktop\MiPrimeraClase(Video)2\MiPrimeraClase2\obj\Debug\MiPrimeraClase2.Properties.Resources.resources
+C:\Users\odrau\Desktop\MiPrimeraClase(Video)2\MiPrimeraClase2\obj\Debug\MiPrimeraClase2.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\MiPrimeraClase(Video)2\MiPrimeraClase2\obj\Debug\MiPrimeraClase2.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\MiPrimeraClase(Video)2\MiPrimeraClase2\obj\Debug\MiPrimeraClase2.exe
+C:\Users\odrau\Desktop\MiPrimeraClase(Video)2\MiPrimeraClase2\obj\Debug\MiPrimeraClase2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MiPrimeraClase(Video)2\MiPrimeraClase2\bin\Debug\MiPrimeraClase2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MiPrimeraClase(Video)2\MiPrimeraClase2\bin\Debug\MiPrimeraClase2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MiPrimeraClase(Video)2\MiPrimeraClase2\bin\Debug\MiPrimeraClase2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MiPrimeraClase(Video)2\MiPrimeraClase2\obj\Debug\MiPrimeraClase2.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MiPrimeraClase(Video)2\MiPrimeraClase2\obj\Debug\MiPrimeraClase2.frmPersonas2.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MiPrimeraClase(Video)2\MiPrimeraClase2\obj\Debug\MiPrimeraClase2.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MiPrimeraClase(Video)2\MiPrimeraClase2\obj\Debug\MiPrimeraClase2.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MiPrimeraClase(Video)2\MiPrimeraClase2\obj\Debug\MiPrimeraClase2.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MiPrimeraClase(Video)2\MiPrimeraClase2\obj\Debug\MiPrimeraClase2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\MiPrimeraClase(Video)2\MiPrimeraClase2\obj\Debug\MiPrimeraClase2.pdb

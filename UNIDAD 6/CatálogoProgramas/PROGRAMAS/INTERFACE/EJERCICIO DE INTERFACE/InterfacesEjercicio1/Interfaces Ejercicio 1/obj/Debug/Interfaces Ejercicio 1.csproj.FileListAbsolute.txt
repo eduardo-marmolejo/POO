@@ -1,0 +1,19 @@
+C:\Users\odrau\Desktop\InterfacesEjercicio1\Interfaces Ejercicio 1\bin\Debug\Interfaces Ejercicio 1.exe.config
+C:\Users\odrau\Desktop\InterfacesEjercicio1\Interfaces Ejercicio 1\bin\Debug\Interfaces Ejercicio 1.exe
+C:\Users\odrau\Desktop\InterfacesEjercicio1\Interfaces Ejercicio 1\bin\Debug\Interfaces Ejercicio 1.pdb
+C:\Users\odrau\Desktop\InterfacesEjercicio1\Interfaces Ejercicio 1\obj\Debug\Interfaces Ejercicio 1.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\InterfacesEjercicio1\Interfaces Ejercicio 1\obj\Debug\Interfaces_Ejercicio_1.Properties.Resources.resources
+C:\Users\odrau\Desktop\InterfacesEjercicio1\Interfaces Ejercicio 1\obj\Debug\Interfaces Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\InterfacesEjercicio1\Interfaces Ejercicio 1\obj\Debug\Interfaces Ejercicio 1.exe
+C:\Users\odrau\Desktop\InterfacesEjercicio1\Interfaces Ejercicio 1\obj\Debug\Interfaces Ejercicio 1.pdb
+C:\Users\odrau\Desktop\InterfacesEjercicio1\Interfaces Ejercicio 1\obj\Debug\Interfaces_Ejercicio_1.frmCalculadora.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\INTERFACE\EJERCICIO DE INTERFACE\InterfacesEjercicio1\Interfaces Ejercicio 1\bin\Debug\Interfaces Ejercicio 1.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\INTERFACE\EJERCICIO DE INTERFACE\InterfacesEjercicio1\Interfaces Ejercicio 1\bin\Debug\Interfaces Ejercicio 1.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\INTERFACE\EJERCICIO DE INTERFACE\InterfacesEjercicio1\Interfaces Ejercicio 1\bin\Debug\Interfaces Ejercicio 1.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\INTERFACE\EJERCICIO DE INTERFACE\InterfacesEjercicio1\Interfaces Ejercicio 1\obj\Debug\Interfaces Ejercicio 1.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\INTERFACE\EJERCICIO DE INTERFACE\InterfacesEjercicio1\Interfaces Ejercicio 1\obj\Debug\Interfaces_Ejercicio_1.frmCalculadora.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\INTERFACE\EJERCICIO DE INTERFACE\InterfacesEjercicio1\Interfaces Ejercicio 1\obj\Debug\Interfaces_Ejercicio_1.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\INTERFACE\EJERCICIO DE INTERFACE\InterfacesEjercicio1\Interfaces Ejercicio 1\obj\Debug\Interfaces Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\INTERFACE\EJERCICIO DE INTERFACE\InterfacesEjercicio1\Interfaces Ejercicio 1\obj\Debug\Interfaces Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\INTERFACE\EJERCICIO DE INTERFACE\InterfacesEjercicio1\Interfaces Ejercicio 1\obj\Debug\Interfaces Ejercicio 1.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\INTERFACE\EJERCICIO DE INTERFACE\InterfacesEjercicio1\Interfaces Ejercicio 1\obj\Debug\Interfaces Ejercicio 1.pdb

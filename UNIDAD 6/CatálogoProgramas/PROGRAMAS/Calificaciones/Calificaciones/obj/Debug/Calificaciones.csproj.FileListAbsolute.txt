@@ -1,0 +1,20 @@
+C:\Users\odrau\Desktop\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\Calificaciones\Calificaciones\obj\Debug\Calificaciones.fmrCalificaciones.resources
+C:\Users\odrau\Desktop\Calificaciones\Calificaciones\obj\Debug\Calificaciones.Properties.Resources.resources
+C:\Users\odrau\Desktop\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
+C:\Users\odrau\Desktop\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe
+C:\Users\odrau\Desktop\Calificaciones\Calificaciones\bin\Debug\Calificaciones.pdb
+C:\Users\odrau\Desktop\Calificaciones\Calificaciones\obj\Debug\Calificaciones.exe
+C:\Users\odrau\Desktop\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Calificaciones\Calificaciones\bin\Debug\Calificaciones.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Calificaciones\Calificaciones\obj\Debug\Calificaciones.fmrCalificaciones.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Calificaciones\Calificaciones\obj\Debug\Calificaciones.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Calificaciones\Calificaciones\obj\Debug\Calificaciones.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb

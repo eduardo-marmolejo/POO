@@ -1,4 +1,8 @@
-﻿using System;
+﻿using Caseta_de_Cobro;
+using CFE;
+using Cuadrado;
+using Fecha_de_Nacimiento;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,6 +12,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Temperatura;
+using Vacaciones;
 
 namespace Catálogo_de_Programas
 {
@@ -29,32 +35,56 @@ namespace Catálogo_de_Programas
 
         private void btnCaseta_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Caseta de Cobro.exe");
+            frmCaseta frm = new frmCaseta();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Caseta de Cobro.exe");
         }
 
         private void btnCFE_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/CFE.exe");
+            fmrCFE frm = new fmrCFE();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/CFE.exe");
         }
 
         private void btnCuadrado_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Cuadrado.exe");
+            fmrCuadrado frm = new fmrCuadrado();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Cuadrado.exe");
         }
 
         private void btnFecha_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Fecha de Nacimiento.exe");
+            frmFechaNacimiento frm = new frmFechaNacimiento();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Fecha de Nacimiento.exe");
         }
 
         private void btnTemperatura_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Temperatura.exe");
+            fmrTemperatura frm = new fmrTemperatura();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Temperatura.exe");
         }
 
         private void btnVacaciones_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Vacaciones.exe");
+            fmrVacaciones frm = new fmrVacaciones();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Vacaciones.exe");
         }
     }
 }

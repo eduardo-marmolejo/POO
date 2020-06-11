@@ -1,4 +1,9 @@
-﻿using System;
+﻿using Ejemplo_1_Propuesta;
+using MatrizSumaFCD;
+using MiPrimeraClase;
+using Número_Mayor_y_Menor;
+using RegistroProductos;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,6 +13,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Torneo_Futbol;
 
 namespace Catálogo_de_Programas
 {
@@ -47,32 +53,56 @@ namespace Catálogo_de_Programas
 
         private void btnMatriz_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/MatrizSumaFCD.exe");
+            frmMatrizSumaFCD frm = new frmMatrizSumaFCD();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/MatrizSumaFCD.exe");
         }
 
         private void btnEjemplo_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Ejemplo 1 Propuesta.exe");
+            frmPromedio frm = new frmPromedio();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Ejemplo 1 Propuesta.exe");
         }
 
         private void btnRegProd_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/RegistroProductos.exe");
+            frmRegProd frm = new frmRegProd();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/RegistroProductos.exe");
         }
 
         private void btnVideo_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/MiPrimeraClase.exe");
+            frmPersonas frm = new frmPersonas();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/MiPrimeraClase.exe");
         }
 
         private void btnTorneo_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Torneo Futbol.exe");
+            frmTorneoFutbol frm = new frmTorneoFutbol();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Torneo Futbol.exe");
         }
 
         private void btnMaMe_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Número Mayor y Menor.exe");
+            frmMaMe frm = new frmMaMe();
+
+            frm.Show();
+
+            //Process.Start(@"C:/Users/odrau/Desktop/UNIDAD 6/CatálogoProgramas/PROGRAMAS/Número Mayor y Menor.exe");
         }
     }
 }

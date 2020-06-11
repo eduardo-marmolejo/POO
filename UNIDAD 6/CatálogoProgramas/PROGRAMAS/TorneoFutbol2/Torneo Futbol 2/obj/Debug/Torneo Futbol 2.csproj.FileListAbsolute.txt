@@ -1,0 +1,20 @@
+C:\Users\odrau\Desktop\TorneoFutbol2\Torneo Futbol 2\bin\Debug\Torneo Futbol 2.exe.config
+C:\Users\odrau\Desktop\TorneoFutbol2\Torneo Futbol 2\bin\Debug\Torneo Futbol 2.exe
+C:\Users\odrau\Desktop\TorneoFutbol2\Torneo Futbol 2\bin\Debug\Torneo Futbol 2.pdb
+C:\Users\odrau\Desktop\TorneoFutbol2\Torneo Futbol 2\obj\Debug\Torneo Futbol 2.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\TorneoFutbol2\Torneo Futbol 2\obj\Debug\Torneo_Futbol_2.frmTorneoFutbol2.resources
+C:\Users\odrau\Desktop\TorneoFutbol2\Torneo Futbol 2\obj\Debug\Torneo_Futbol_2.Properties.Resources.resources
+C:\Users\odrau\Desktop\TorneoFutbol2\Torneo Futbol 2\obj\Debug\Torneo Futbol 2.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\TorneoFutbol2\Torneo Futbol 2\obj\Debug\Torneo Futbol 2.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\TorneoFutbol2\Torneo Futbol 2\obj\Debug\Torneo Futbol 2.exe
+C:\Users\odrau\Desktop\TorneoFutbol2\Torneo Futbol 2\obj\Debug\Torneo Futbol 2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol2\Torneo Futbol 2\bin\Debug\Torneo Futbol 2.exe.config
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol2\Torneo Futbol 2\bin\Debug\Torneo Futbol 2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol2\Torneo Futbol 2\bin\Debug\Torneo Futbol 2.pdb
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol2\Torneo Futbol 2\obj\Debug\Torneo Futbol 2.csprojAssemblyReference.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol2\Torneo Futbol 2\obj\Debug\Torneo_Futbol_2.frmTorneoFutbol2.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol2\Torneo Futbol 2\obj\Debug\Torneo_Futbol_2.Properties.Resources.resources
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol2\Torneo Futbol 2\obj\Debug\Torneo Futbol 2.csproj.GenerateResource.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol2\Torneo Futbol 2\obj\Debug\Torneo Futbol 2.csproj.CoreCompileInputs.cache
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol2\Torneo Futbol 2\obj\Debug\Torneo Futbol 2.exe
+C:\Users\odrau\Desktop\UNIDAD 6\CatálogoProgramas\PROGRAMAS\TorneoFutbol2\Torneo Futbol 2\obj\Debug\Torneo Futbol 2.pdb
